@@ -35,7 +35,7 @@
 - Nodepool upgrade and maintenance
 - Monitoring
   - Premetheus and Grafana
-- Helm and other CNCF graduated projects
+- Helm, Traefik and other CNCF graduated projects
 
 ## Advanced
 
