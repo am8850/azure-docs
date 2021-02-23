@@ -21,7 +21,7 @@
   - Monitoring:
     - Azure Container Monitoring
     - Application Insights in containers
-  - Deploying a solution to AKS
+- Deploying a solution to AKS
     - Basic kubectl commands
 
 ## Intermediate
