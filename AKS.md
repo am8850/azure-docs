@@ -22,8 +22,8 @@
 - AKS
   - Security: 
     - Pod identities
-- ACR
   - Ingress controllers
+- ACR
 
 ## Advanced
 
