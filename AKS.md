@@ -2,6 +2,13 @@
 
 ## Beginner
 
+Session objetives:
+- Basic understanding of kubernetes architecture
+- Basic understanding of AKS
+- Basic understanding of deploying a deployment and a services
+
+Session topics
+
 - [Kubernetes architecture](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
   - Master node, worker node, pod, pod networking
   - NodePort, ClusterIP
@@ -10,21 +17,20 @@
   - Networking: 
     - Private and Public master node
     - Kubnet vs ACI
-    - LoadBalancer (public/private)
+    - LoadBalancer (public/private with annotations)
     - Deployments and Services    
     - [Network policies](https://docs.microsoft.com/en-us/azure/aks/use-network-policies)
-    - Scaling:
-      - Pod and node scaling
-    - Monitoring:
-      - Azure Container Monitoring
-      - Application Insights in containers
+  - Monitoring:
+    - Azure Container Monitoring
+    - Application Insights in containers
 - Deploying a solution to AKS
-    - Basic kubectl commands
-
+    - Basic kubectl commands to deploy a deployment and a service
 
 ## Intermediate
 
 - AKS
+  - Scaling:
+    - Pod and node scaling 
   - Security: 
     - AAD integration
     - Pod identities
@@ -44,6 +50,7 @@
 
 - AKS
   - Detailed security recommendations
+  - Private cluster networking
 - Microservices Architecture with AKS
   - Decoupling, messanging
   - DAPR
