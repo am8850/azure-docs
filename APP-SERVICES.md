@@ -22,9 +22,15 @@ Topics:
   - ApplicationInsights
 - Deploying a SPA application (Storage account)
 - Demo:
-  - Deploying an .Net core app to an App Service
+  - Deploying an .Net Core/Node app to an App Service
 
 ## Intermediate
+
+Objetives:
+
+-
+
+Topics:
 
 - Deploying a containers
 - Perforamnce:
@@ -39,6 +45,10 @@ Topics:
   - Managed Identities
 
 ## Advanced
+
+Objectives:
+
+Topics:
 
 - App Service Environments
 - Networking:
