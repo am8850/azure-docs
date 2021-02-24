@@ -5,15 +5,16 @@
 - Containerizing an app using docker to docker hub
 - Azure container registry
 - Kubernetes architecture
-  - Master node
-  - worker node
-  - Other services (ETCD, scheduler, etc.)
+  - Master node, worker node, pod, pod networking
+  - NodePort, ClusterIP
+  - Other services (API server, ETCD, scheduler, etc.)
 - AKS (Azure's implementation of Kubernetes)
   - Networking: 
-    - Kubnet vs ACI
-    - NodePort, ClusterIP and LoadBalancer
-    - Deployments and Services
     - Private and Public master node
+    - Kubnet vs ACI
+    - LoadBalancer (public/private)
+    - Deployments and Services    
+    - [Network policies](https://docs.microsoft.com/en-us/azure/aks/use-network-policies)
   - Scaling:
     - Pod and node scaling
   - Policies
