@@ -1,4 +1,4 @@
-# Azure Sessions
+# FTA AppDev Sessions
 
 - [AKS](AKS.md)
 - [App Services](APP-SERVICES.md)
