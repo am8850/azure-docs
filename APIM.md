@@ -7,13 +7,14 @@
 - Networking (off, external, internal)
 - API definitions
 - Understanding the request pipeline
-- Producs
+- Products
 - Subscriptions
+- Users
 - Developer portal
 - Monitoring:
   - ApplicationInsights
 - Demo:
-  - Deploying an API Management Instance
+  - Deploying an API Management Instance and discussing an API
 
 ## Intermediate
 
