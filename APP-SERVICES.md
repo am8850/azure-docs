@@ -1,7 +1,8 @@
 # Azure App Service (Window/Linux/Containers)
 
-## Intro
+## Beginner
 
+- Introduction to App Services
 - Service plan
 - Choosing an App Service
 - Options for deploying code
