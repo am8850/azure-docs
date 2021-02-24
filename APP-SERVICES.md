@@ -28,7 +28,9 @@ Topics:
 
 Objetives:
 
--
+- Understand how to deploy containers
+- Understand some performance differences.
+- Understand networking capabilities in premium services.
 
 Topics:
 
@@ -52,6 +54,6 @@ Topics:
 
 - App Service Environments
 - Networking:
-  - Premium plans and accessing resources on a VNET or with Private EndPoints
+  - Premium plans and accessing resources on a VNET or with Private Link
 - DevOps:
   - Deploying an application to App Service
