@@ -55,4 +55,4 @@ Session topics
   - Decoupling, messanging
   - DAPR
 - DevOPS
-  - Deploying a workload with GitOps
+  - Deploying a solution using GitOps
