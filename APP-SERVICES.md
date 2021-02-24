@@ -5,8 +5,9 @@
 Objectives:
 
 - Understand what is an App Service
-- Understand to select a service plan
-- Understand how to deploy code to App Service
+- Understand to how to select service plan
+- Understand how to scale and App Service plan
+- Understand how to deploy code to an App Service
 
 Topics:
 
