@@ -25,10 +25,11 @@ Session topics
   - Monitoring:
     - Azure Container Monitoring
     - Application Insights in containers
-- Deploying a solution to AKS
+- Demo:
   - Provisioning a cluster
     - Getting credentials
-  - Basic kubectl commands to deploy a deployment and a service
+  - Basic kubectl commands
+  - Deploy a deployment and a service
 
 ## Intermediate
 
