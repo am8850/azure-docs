@@ -36,7 +36,8 @@ Objetives:
 Topics:
 
 - Deploying a containers
-- Java Apps on tomcat
+- Java Apps on Tomcat
+  - How are WAR file restored on App Service
 - Perforamnce:
   - Differences between ZipDeploy (local) and WebDeploy (NFS)
 - Networking:
