@@ -12,6 +12,8 @@
 - Developer portal
 - Monitoring:
   - ApplicationInsights
+- Demo:
+  - Deploying an API Management Instance
 
 ## Intermediate
 
