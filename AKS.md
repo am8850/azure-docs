@@ -33,6 +33,11 @@ Session topics
 
 ## Intermediate
 
+Objectives:
+
+
+Topics:
+
 - AKS
   - Scaling:
     - Pod and node scaling 
@@ -52,6 +57,10 @@ Session topics
 - Helm and other CNCF graduated projects
 
 ## Advanced
+
+Objectives:
+
+Topics:
 
 - AKS
   - Detailed security recommendations
