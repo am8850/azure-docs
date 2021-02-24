@@ -2,6 +2,14 @@
 
 ## Beginner
 
+Objective:
+
+- Understand what is an App Service
+- Understand to select a service plan
+- Understand how to deploy code to App Service
+
+Topics:
+
 - Introduction to App Services
 - Service plan
 - Choosing an App Service
@@ -18,8 +26,9 @@
 
 ## Intermediate
 
-- Perforamnce Differences between ZipDeploy (local) and WebDeploy (NFS)
 - Deploying a containers
+- Perforamnce:
+  - Differences between ZipDeploy (local) and WebDeploy (NFS)
 - Networking:
   - Restrictions
   - Application Gateway in WAF mode
