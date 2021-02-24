@@ -34,7 +34,7 @@ Session topics
   - Security: 
     - AAD integration
     - Pod identities
-  - Ingress controllers
+  - Ingress controllers (AppGw, NGINX, Traefik)
   - Secret management
   - ConfigMaps
   - Persistance
@@ -44,7 +44,7 @@ Session topics
 - Nodepool upgrade and maintenance
 - Monitoring
   - Premetheus and Grafana
-- Helm, Traefik and other CNCF graduated projects
+- Helm and other CNCF graduated projects
 
 ## Advanced
 
@@ -56,3 +56,4 @@ Session topics
   - DAPR
 - DevOPS
   - Deploying a solution using GitOps
+- Introduction to Service Mesh
