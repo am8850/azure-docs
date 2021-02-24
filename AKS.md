@@ -6,7 +6,8 @@ Session objetives:
 - Basic understanding of kubernetes architecture
 - Basic kubernetes network understanding
 - Basic understanding of AKS
-- Basic understanding of deploying a deployment and a services
+- Provisioning an AKS cluster from a portal and from CLI
+- Basic understanding of deploying a deployment and a service to AKS
 
 Session topics
 
@@ -25,7 +26,9 @@ Session topics
     - Azure Container Monitoring
     - Application Insights in containers
 - Deploying a solution to AKS
-    - Basic kubectl commands to deploy a deployment and a service
+  - Provisioning a cluster
+    - Getting credentials
+  - Basic kubectl commands to deploy a deployment and a service
 
 ## Intermediate
 
