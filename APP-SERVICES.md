@@ -36,6 +36,7 @@ Objetives:
 Topics:
 
 - Deploying a containers
+- Java Apps on tomcat
 - Perforamnce:
   - Differences between ZipDeploy (local) and WebDeploy (NFS)
 - Networking:
@@ -60,6 +61,7 @@ Topics:
 - App Service Environments
 - Networking:
   - Premium plans and accessing resources on a VNET or with Private Link
+  - Connecting to on-prem resources with Hybrid connections
 - DevOps:
   - Keyvault
   - Deploying an application to App Service
