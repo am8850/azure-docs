@@ -5,6 +5,7 @@
 - Intro to API Management
 - API Management in Microservices architectures
 - Networking (off, external, internal)
+  - Required ports
 - API definitions
 - Understanding the request pipeline
 - Products
