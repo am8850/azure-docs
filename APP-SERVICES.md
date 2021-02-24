@@ -12,6 +12,8 @@
 - Monitoring:
   - ApplicationInsights
 - Deploying a SPA application (Storage account)
+- Demo:
+  - Deploying an .Net core app to an App Service
 
 ## Intermediate
 
