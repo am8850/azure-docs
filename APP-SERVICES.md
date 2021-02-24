@@ -51,10 +51,15 @@ Topics:
 
 Objectives:
 
+- Understand the value of App Service Environments
+- Understand the networking features in premium tiers of App Services
+- DevOPS CI/CD to deploy an app to App Service with configuration secrets
+
 Topics:
 
 - App Service Environments
 - Networking:
   - Premium plans and accessing resources on a VNET or with Private Link
 - DevOps:
+  - Keyvault
   - Deploying an application to App Service
