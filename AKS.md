@@ -4,6 +4,7 @@
 
 Session objetives:
 - Basic understanding of kubernetes architecture
+- Basic kubernetes network understanding
 - Basic understanding of AKS
 - Basic understanding of deploying a deployment and a services
 
