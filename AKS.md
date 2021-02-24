@@ -30,6 +30,9 @@
   - Security: 
     - Pod identities
   - Ingress controllers
+  - Secret management
+  - ConfigMaps
+  - Persistance
 - ACR
   - Premium features of ACR
 - Nodepool upgrade and maintenance
@@ -40,7 +43,7 @@
 ## Advanced
 
 - AKS
-  - Security recommendations
+  - Detailed security recommendations
 - Microservices Architecture with AKS
   - Decoupling, messanging
   - DAPR
