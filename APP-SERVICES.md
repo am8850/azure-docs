@@ -2,7 +2,7 @@
 
 ## Beginner
 
-Objective:
+Objectives:
 
 - Understand what is an App Service
 - Understand to select a service plan
