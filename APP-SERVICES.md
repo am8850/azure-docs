@@ -38,6 +38,7 @@ Objetives:
 Topics:
 
 - Custom nost names and TLS
+> **Tip:** you will need to obtain a PFX certificate and have access to configure DNS entries.
 - Deploying a containers
 - Java Apps on Tomcat
   - How are WAR file restored on App Service
