@@ -41,6 +41,7 @@ Topics:
 - Deploying a containers
 - Java Apps on Tomcat
   - How are WAR file restored on App Service
+  > **Tip:** Tomcat can host many apps, but when an app is deployed to App Services, it is expanded at root level. For example, if your app was access by going to http://server/app/index.jsp in App Service the same app would be available at: https://appservice.net/index.jsp.
 - Perforamnce:
   - Differences between ZipDeploy (local) and WebDeploy (NFS)
 - Networking:
