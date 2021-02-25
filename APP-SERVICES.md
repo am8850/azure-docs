@@ -16,9 +16,11 @@ Topics:
 - Choosing an App Service
 - Options for deploying code
 - Scaling up/down and out/in
+> **Tip:** A service plan can host multiple apps. What scales if the plan. If you need more scalability flexibility for a given app, consider separating it to its own service plan.
 - Deployment slots
+> **Tip:** You could deploy an app to a pre-prod, test it, and the swap from pre-prod to prod. This works with a DNS replacement.
 - Application settings in configuration
-- Custom nost names
+> **Tip:** Consider using Keyvault to store your secrets or manage identities to complety skip having to deploy secrets.
 - Monitoring:
   - ApplicationInsights
 - Deploying a SPA application (Storage account)
@@ -35,6 +37,7 @@ Objetives:
 
 Topics:
 
+- Custom nost names and TLS
 - Deploying a containers
 - Java Apps on Tomcat
   - How are WAR file restored on App Service
