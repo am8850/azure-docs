@@ -18,7 +18,7 @@ Topics:
 - Scaling up/down and out/in
 > **Tip:** A service plan can host multiple apps. What scales if the plan. If you need more scalability flexibility for a given app, consider separating it to its own service plan.
 - Deployment slots
-> **Tip:** You could deploy an app to a pre-prod, test it, and the swap from pre-prod to prod. This works with a DNS replacement.
+> **Tip:** You could deploy an app to a pre-prod slot, test it, and the swap from pre-prod to prod. Swapping involces a DNS change.
 - Application settings in configuration
 > **Tip:** Consider using Keyvault to store your secrets or manage identities to complety skip having to deploy secrets.
 - Monitoring:
