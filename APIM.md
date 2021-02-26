@@ -8,6 +8,10 @@ Topics:
 - API Management in Microservices architectures
 - Networking (off, external, internal)
   - Required ports
+- Hard requirements
+  -	Only resource on subnet
+  -	/29 minimum size of subnet
+  -	Service Endpoints need to be enabled for Azure Sql, Azure Storage, Azure EventHub, and Azure ServiceBus(At least to Azure SQL Database and Storage Accounts(Table and Blob)
 - API definitions
 - Understanding the request pipeline
 - Products
