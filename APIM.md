@@ -41,3 +41,35 @@ Topics:
 - DevOps:
   - APIM DevOpts tools
   - Deploying an API using the DevOPs
+
+## Other Topics
+
+### Internal VNET: Public Endpoints
+ 
+[A Public address is required for managing configuration on port 3443](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-ip-addresses#ip-addresses-of-api-management-service-in-vnet)
+ 
+NSG quick start for Inbound/Outbound rules for Internal VNET. azure-quickstart-templates/azuredeploy.json at master · Azure/azure-quickstart-templates (github.com)
+ 
+### Internal VNET: Force Tunneling
+ 
+If force tunneling is implemented through a UDR, Control Plane IP Addresses need to be routed to the "Internet". 
+microsoft/HighSecurityAPIM: Secure VNET Injection of APIM Surviving Force-Tunneling (github.com)
+ 
+### Isolated Tier
+ 
+[Satisfy the DoD IL5 isolation requirement](https://docs.microsoft.com/en-us/azure/api-management/upgrade-and-scale#compute-isolation)
+ 
+ 
+### Troubleshooting
+ 
+Timeout issues with updating an API. Navigate to global policy for <forward-request> under the “All APIs”.
+
+(https://docs.microsoft.com/en-us/azure/api-management/api-management-advanced-policies#ForwardRequest)
+  
+<forward-request timeout policy>
+ 
+#### VS Code 
+
+[Debugging Policies](https://docs.microsoft.com/en-us/azure/api-management/api-management-debug-policies)
+ 
+
