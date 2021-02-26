@@ -48,6 +48,8 @@ Topics:
 - Networking:
   - Restrictions
   - Application Gateway in WAF mode
+  - Premium plans and accessing resources on a VNET or with Private Link
+  - Connecting to on-prem resources with Hybrid connections
 - Performance
   - Caching (i.e. with Redis cache)
 - Security:
@@ -66,11 +68,12 @@ Topics:
 
 - App Service Environments
   - Hardware and network isolation (Good for very strick compliance such as banking and Federal)
+    - https://docs.microsoft.com/en-us/azure/app-service/environment/network-info#app-assigned-ip-addresses}
   - Required ports
   - UDR to manage outgoing traffic
-- Networking:
-  - Premium plans and accessing resources on a VNET or with Private Link
-  - Connecting to on-prem resources with Hybrid connections
+  - NSG created when locking down ILB ASE
+    - https://github.com/Azure/azure-quickstart-templates/blob/master/App-Service-Environment-AzFirewall/nestedtemplates/vnet.json)
+    - https://github.com/Azure/azure-quickstart-templates/tree/master/App-Service-Environment-AzFirewall
 - DevOps:
   - Keyvault
   - Deploying an application to App Service
