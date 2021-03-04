@@ -43,7 +43,7 @@ az aks create \
     --dns-service-ip 10.2.0.10 \
     --service-cidr 10.2.0.0/24 
 ```
-    - Getting credentials
+  - Getting credentials
   - Basic kubectl commands
   > **Tip:** [This site](https://github.com/dgkanatsios/CKAD-exercises) provides good excersises on using the kubectl command
   - Deploy a deployment and a service
