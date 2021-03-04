@@ -44,6 +44,9 @@ az aks create \
     --service-cidr 10.2.0.0/24 
 ```
   - Getting credentials
+```bash
+az aks get-credentials --resource-group myResourceGroup --name myAKSCluster
+```
   - Basic kubectl commands
   > **Tip:** [This site](https://github.com/dgkanatsios/CKAD-exercises) provides good excersises on using the kubectl command
   - Deploy a deployment and a service
