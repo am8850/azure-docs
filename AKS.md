@@ -6,7 +6,7 @@ Session objetives:
 - Basic understanding of kubernetes architecture
 - Basic kubernetes network understanding
 - Basic understanding of AKS
-- Provisioning an AKS cluster from a portal and from CLI
+- Provisioning an AKS cluster from CLI
 - Basic understanding of deploying a deployment and a service to AKS
 
 Session topics
