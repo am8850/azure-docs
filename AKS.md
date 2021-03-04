@@ -48,6 +48,10 @@ az aks create \
   > **Tip:** [This site](https://github.com/dgkanatsios/CKAD-exercises) provides good excersises on using the kubectl command
   - Deploy a deployment and a service
 
+- Links:
+
+  - (Walkthrough)[https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
+
 ## Intermediate
 
 Session objectives:
