@@ -33,7 +33,13 @@ Session topics
 
 ## Intermediate
 
-Objectives:
+Session objectives:
+
+- Understand scaling capabilities in AKS
+- Undersntad more security options with AAD and Pod Identities
+- Understand what ingress controllers are and how they can be used
+- Understand how to leverage Helm
+- Understand more monitoring options with Prometheus
 
 
 Topics:
@@ -44,7 +50,8 @@ Topics:
   - Security: 
     - AAD integration
     - Pod identities
-  - Ingress controllers (AppGw, NGINX, Traefik)
+  - Ingress controllers
+    - Path based routing
   - Secret management
   - ConfigMaps
   - Persistance
@@ -52,13 +59,16 @@ Topics:
   - AKS and ACR integration
   - Premium features of ACR
 - Nodepool upgrade and maintenance
+- Helm and other CNCF graduated projects
 - Monitoring
   - Premetheus and Grafana
-- Helm and other CNCF graduated projects
+
 
 ## Advanced
 
-Objectives:
+Session bjectives:
+
+- Understand more 
 
 Topics:
 
