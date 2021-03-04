@@ -17,8 +17,8 @@ Session topics
   - Other services (API server, ETCD, scheduler, etc.)
 - AKS (Azure's implementation of Kubernetes)
   - Networking: 
-    - Private and Public master node
-    > **Tip:** Selecting a public or private master is the first importante decision.
+    - Private and Public cluster
+    > **Tip:** Selecting a public or private cluster is the first importante decision. In a private cluster, the control plane or API server has internal IP addresses 
     - Kubnet vs ACI
     > **Tip:** ACI is recommended, but you may select kubenet when you have exhausted IP in the network where the cluster will be delopyed. 
     - LoadBalancer (public/private with annotations)
