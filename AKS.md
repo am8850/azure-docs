@@ -50,7 +50,7 @@ az aks create \
 
 - Links:
 
-  - (Walkthrough)[https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
+  - [Walkthrough](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
 
 ## Intermediate
 
