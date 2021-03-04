@@ -21,6 +21,7 @@ Session topics
     > **Tip:** Selecting a public or private cluster is the first importante decision. In a private cluster, the control plane or API server has internal IP addresses 
     - Kubnet vs ACI
     > **Tip:** ACI is recommended, but you may select kubenet when you have exhausted IP in the network where the cluster will be delopyed. 
+    - NodePort
     - LoadBalancer (public/private with annotations)
     - Deployments and Services    
     - [Network policies](https://docs.microsoft.com/en-us/azure/aks/use-network-policies)
