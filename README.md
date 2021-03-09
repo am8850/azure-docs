@@ -16,6 +16,8 @@ Some cons:
   - It is important for the customers to be working with a lead engineers who will be responsible for understanding their specific scenario(s)
 - Customer may send other teams other than the one working with FTA
   - Emphasize that the team working with FTA should attend the session
+ - Connectio can go down
+   - Two engineers
 
 Sessions:
 
